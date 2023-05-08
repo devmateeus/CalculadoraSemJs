@@ -1,0 +1,40 @@
+.fundo {
+width: 420px;
+height: 600px;
+background: #6C7A89;
+border-radius: 10px;
+position: absolute;
+top: 20%;
+left: 40%;
+}
+
+.tudo_Calculadora {
+    position: absolute;
+    top: 38%;
+    left: 40%;
+    grid-auto-rows: auto;
+    grid-auto-rows: 50px;
+    opacity: 0.8;
+    
+}
+
+.visor_Calculadora {
+    background: white;
+    width: 420px;
+    height: 110px;
+    position: relative;
+    top: -525px;
+    
+    
+  
+    
+    
+}
+
+.nome_Calculadora {
+    width: 420px;
+    height: 110px;
+    position: relative;
+    top: -697px;
+    left: 70px;
+}
